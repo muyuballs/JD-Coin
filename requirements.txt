@@ -1,2 +1,4 @@
 requests
-PyQT5
+qrcode
+zbarlight
+Pillow
